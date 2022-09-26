@@ -1,0 +1,25 @@
+{
+  "title": "Amazon.com Shopping Cart",
+  "cartDiscraption": "The price and availability of items at Amazon.com are subject tochange. The Cart is a temporary place to store a list of youritems and reflects each item's most recent price. ShoppingCartLearn more. <br />Do you have a gift card or promotional code? We'll ask you toenter your claim code when it's time to pay.",
+  "proceedToCheckout": "Proceed to checkout",
+  "yourRecentlyViewedItems": "Your recently viewed items",
+  "actions": {
+    "save": {
+      "label": "save for later",
+      "click": "success save for later"
+    },
+    "delete": {
+      "label": "Delete",
+      "click": "success delete from cart"
+    }
+  },
+  "qty": "Qty: {{amount}}",
+  "emptyCart": {
+    "title": "Your Amazon Cart is empty",
+    "btns": {
+      "signin": "Sign in to your account",
+      "signup": "Sign up now"
+    }
+  },
+  "subtotal": "Subtotal ({{amount}} item):"
+}

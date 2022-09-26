@@ -1,0 +1,123 @@
+.header {
+  background-color: #131921 !important;
+  z-index: 9999;
+  position: relative;
+
+  .logo {
+    width: 100px;
+
+    img {
+      width: 100%;
+      height: 30px;
+    }
+  }
+
+  .cartNum {
+    top: -1px;
+    width: fit-content;
+  }
+
+  .countryName {
+    max-width: 85px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+  }
+}
+
+.aSide {
+  position: fixed;
+  height: 100vh;
+  top: 0;
+  width: 100%;
+  max-width: 350px;
+  z-index: 99875987698;
+  overflow: hidden;
+  display: none;
+  transform: translateX(-100%);
+
+  .boxDrops {
+    width: 200%;
+    height: calc(100vh - 19px);
+    transition: 0.4s;
+    transform: translateX(0);
+  }
+
+  &.ltr {
+    left: 0;
+    transform: translateX(-100%);
+    display: block;
+    transition: 0.4s;
+
+    .boxDrops.next {
+      transform: translateX(-50%);
+    }
+  }
+
+  &.rtl {
+    right: 0;
+    transform: translateX(100%);
+    display: block;
+    transition: 0.4s;
+
+    .boxDrops.next {
+      transform: translateX(50%);
+    }
+  }
+
+  &.active {
+    transform: translateX(0) !important;
+  }
+
+  .sideItem {
+    color: #879596;
+
+    &:hover {
+      background-color: #eaeded;
+      color: #111 !important;
+    }
+  }
+}
+
+.navShop {
+  background-color: #232f3e;
+  color: #f3f3f3;
+  z-index: 9995;
+  position: relative;
+}
+
+.backdrop {
+  width: 100%;
+  height: 100%;
+  background-color: rgba($color: #000, $alpha: 0.45);
+  position: fixed;
+  inset: 0;
+  z-index: 999;
+  display: none;
+  opacity: 0;
+
+  &.show {
+    display: block;
+    animation: show 0.3s forwards;
+  }
+
+  @keyframes show {
+    0% {
+      opacity: 0;
+    }
+
+    100% {
+      opacity: 1;
+    }
+  }
+}
+
+.footer {
+  background-color: #232f3e !important;
+  z-index: 999;
+  position: relative;
+
+  .btnToTob {
+    background-color: #37475a !important;
+  }
+}

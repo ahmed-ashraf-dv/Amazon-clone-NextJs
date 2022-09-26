@@ -1,0 +1,135 @@
+.light-font {
+  font-weight: 200;
+}
+
+.cu-pointer {
+  cursor: pointer;
+}
+
+.cu-default {
+  cursor: default;
+}
+
+.event-none {
+  pointer-events: none;
+}
+
+.w-fit {
+  width: fit-content;
+}
+
+.small {
+  font-size: 0.8rem !important;
+}
+
+.flex-between {
+  display: flex;
+  justify-content: space-between;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex-start {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.flex-around {
+  display: flex;
+  justify-content: space-around;
+}
+
+.select-none {
+  user-select: none;
+}
+
+.postion-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.postion-bottom {
+  position: absolute;
+  top: 95%;
+  left: 50%;
+  transform: translate(-50%, -100%);
+}
+
+.text-pre-line {
+  white-space: pre-line;
+}
+
+.text-muted-light {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.main-box-shadow:focus {
+  box-shadow: 0 0 0 0.25rem rgba($color: #ffc720, $alpha: 0.5);
+}
+
+.unset-btn {
+  border: none;
+}
+
+.transparent-btn {
+  border: none;
+  outline: none;
+
+  &:hover {
+    border: none;
+    outline: none;
+  }
+}
+
+.border-hover {
+  border: 1px solid transparent;
+  &:hover {
+    border-color: #fff;
+  }
+}
+
+.text-white {
+  color: #fff;
+}
+
+.bg-white {
+  background-color: #fff;
+}
+
+.form-width {
+  width: 100%;
+  max-width: 400px;
+}
+
+.main-hover:hover {
+  color: #c7511f;
+}
+
+.text-cut-1 {
+  white-space: nowrap;
+  overflow: hidden;
+  width: 100%;
+  text-overflow: ellipsis;
+}
+
+.scroll-auto {
+  overflow: auto;
+}
+
+.main-transition {
+  transition: 0.4s;
+}
+
+.w-90 {
+  width: 90%;
+}
+
+.background-hover:hover {
+  background-color: #eee;
+}

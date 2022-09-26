@@ -1,0 +1,12 @@
+{
+  "title": "Amazon Sign-In",
+  "newToAmazon": "New to Amazon?",
+  "createYourAmazonAccount": "Create your Amazon account",
+  "form": {
+    "title": "Sign in",
+    "inputs": {
+      "email": "Email or mobile phone number"
+    },
+    "continue": "Continue"
+  }
+}

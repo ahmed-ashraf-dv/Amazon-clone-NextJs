@@ -1,0 +1,24 @@
+{
+  "title": "Amazon Registration",
+
+  "form": {
+    "title": "Create account",
+    "inputs": {
+      "name": {
+        "label": "Your name",
+        "placeholder": "First and last name"
+      },
+      "email": "Email or mobile phone number",
+      "password": {
+        "label": "Password",
+        "placeholder": "At least 6 characters"
+      },
+      "rePassword": {
+        "label": "Re-enter password",
+        "placeholder": "At least 6 characters"
+      },
+      "passwordValid": "Passwords must be at least 6 characters."
+    },
+    "continue": "Continue"
+  }
+}

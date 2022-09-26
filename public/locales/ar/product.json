@@ -1,0 +1,9 @@
+{
+  "successAddToCart": "نجح الاضافه الي السله",
+  "DeliverTo": "الشحن الي",
+  "secureTransaction": "معاملة آمنة",
+  "btns": {
+    "addToCart": "أضف إلى السلة",
+    "buyNow": "اشتري الآن"
+  }
+}

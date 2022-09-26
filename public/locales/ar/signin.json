@@ -1,0 +1,12 @@
+{
+  "title": "Amazon تسجيل الدخول",
+  "newToAmazon": "جديد على Amazon?",
+  "createYourAmazonAccount": "قم بإنشاء حساب Amazon الخاص بك",
+  "form": {
+    "title": "سجل الدخول",
+    "inputs": {
+      "email": "البريد الإلكتروني أو الهاتف المحمول"
+    },
+    "continue": "استمرار"
+  }
+}

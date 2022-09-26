@@ -1,0 +1,24 @@
+{
+  "title": "Amazon تسجيل",
+
+  "form": {
+    "title": "انشاء حساب",
+    "inputs": {
+      "name": {
+        "label": "اسمك",
+        "placeholder": "اسمك الاول والاخير"
+      },
+      "email": "ايميلك او رقم هاتفك",
+      "password": {
+        "label": "كلمة المرور",
+        "placeholder": "6 أحرف على الأقل"
+      },
+      "rePassword": {
+        "label": "أعد إدخال كلمة السر",
+        "placeholder": "6 أحرف على الأقل"
+      },
+      "passwordValid": "يجب أن تكون كلمات المرور 6 أحرف على الأقل."
+    },
+    "continue": "استمر"
+  }
+}

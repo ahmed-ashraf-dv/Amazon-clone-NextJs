@@ -1,0 +1,18 @@
+{
+  "title": "Amazon.com : {{query}}",
+  "resultCount": "{{num}} of over {{over}} results for:",
+  "sortBy": "Sort by",
+  "sortedFil": {
+    "Avg. Customer Review": "Avg. Customer Review",
+    "Price: Low to High": "Price: Low to High",
+    "Price: High to Low": "Price: High to Low"
+  },
+  "filter": {
+    "clear": "Clear",
+    "loading": "loading",
+    "heading": {
+      "Customer Reviews": "Customer Reviews",
+      "Department": "Department"
+    }
+  }
+}

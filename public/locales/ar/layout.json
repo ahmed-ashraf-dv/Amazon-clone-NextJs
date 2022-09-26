@@ -1,0 +1,207 @@
+{
+  "loading": "جاري التحميل...",
+  "SeeMore": "المزيد",
+  "Not Found Anything": "لم نجد اي شي",
+  "From": "بدايه من",
+  "RESULTS": "النتائج",
+  "stars": {
+    "up": "وفوق"
+  },
+  "header": {
+    "navShop": {
+      "All": "الكل"
+    },
+    "account": {
+      "title": "الحساب",
+      "btns": {
+        "signin": "تسجيل الدخول",
+        "newCustomer": {
+          "title": "زائر جديد ؟",
+          "btn": "ابدأ هنا"
+        }
+      }
+    },
+    "languages": {
+      "English": "الانجليزيه",
+      "العربية": "العربيه"
+    },
+    "searchbar": {
+      "categories": {
+        "All Departments": "جميع الإدارات",
+        "Arts & Crafts": "فنون وحرف",
+        "Automotive": "سيارات",
+        "Baby": "طفل",
+        "Beauty & Personal Care": "الجمال والعناية الشخصية",
+        "Books": "كتب",
+        "Boys' Fashion": "أزياء الأولاد",
+        "Computers": "كمبيوتر",
+        "Deals": "صفقات",
+        "Digital Music": "الموسيقى الرقمية",
+        "Electronics": "إلكترونيات",
+        "Girls' Fashion": "أزياء الفتيات",
+        "Health & Household": "الصحة والأسرة المعيشية",
+        "Home & Kitchen": "المنزل والمطبخ",
+        "Industrial & Scientific": "الصناعي والعلمي",
+        "Kindle Store": "متجر كيندل",
+        "Luggage": "حقيبة",
+        "Men's Fashion": "أزياء الرجال",
+        "Movies & TV": "الأفلام والتلفزيون",
+        "Music, CDs & Vinyl": "الموسيقى والأقراص المدمجة والفينيل",
+        "Pet Supplies": "مستلزمات الحيوانات الأليفة",
+        "Prime Video": "برايم فيديو",
+        "Software": "برمجيات",
+        "Sports & Outdoors": "الرياضة والهواء الطلق",
+        "Tools & Home Improvement": "الأدوات وتحسين المنزل",
+        "Toys & Games": "الألعاب والألعاب",
+        "Video Games": "ألعاب الفيديو",
+        "Women's Fashion": "الأزياء النسائية"
+      }
+    },
+    "countryDeliver": {
+      "DeliverTo": "شحن إلى"
+    },
+    "cart": "العربة"
+  },
+  "mainFooter": {
+    "toTopBtn": "رجوع للأعلى",
+    "headings": {
+      "Get to Know Us": "تعرف علينا",
+      "Make Money with Us": "كسب المال معنا",
+      "Amazon Payment Products": "منتجات الدفع من أمازون",
+      "Let Us Help You": "دعنا نساعدك"
+    },
+    "taps": {
+      "Careers": "وظائف",
+      "Blog": "مقالات",
+      "About Amazon": "حول أمازون",
+      "Investor Relations": "علاقات المستثمرين",
+      "Amazon Devices": "أجهزة أمازون",
+      "Amazon Science": "أمازون ساينس",
+      "Sell products on Amazon": "بيع المنتجات على أمازون",
+      "Sell on Amazon Business": "البيع على أمازون بيزنس",
+      "Sell apps on Amazon": "بيع التطبيقات على أمازون",
+      "Become an Affiliate": "كن حليفا",
+      "Advertise Your Products": "أعلن عن منتجاتك",
+      "Self-Publish with Us": "النشر الذاتي معنا",
+      "Host an Amazon Hub": "استضافة Amazon Hub",
+      "See More Make Money with Us": "شاهد المزيد من كسب المال معنا",
+      "Amazon Business Card": "بطاقة أمازون بيزنس كارد",
+      "Shop with Points": "تسوق بالنقاط",
+      "Reload Your Balance": "إعادة تحميل رصيدك",
+      "Amazon Currency Converter": "محول عملات أمازون",
+      "Amazon and COVID-19": "أمازون و COVID-19",
+      "Your Account": "الحساب الخاص بك",
+      "Your Orders": "طلباتك",
+      "Shipping Rates & Policies": "أسعار وسياسات الشحن",
+      "Returns & Replacements": "عمليات الإرجاع والاستبدال",
+      "Manage Your Content and Devices": "إدارة المحتوى والأجهزة الخاصة بك",
+      "Amazon Assistant": "مساعد أمازون",
+      "Help": "مساعدة"
+    }
+  },
+  "guestFooter": {
+    "description": "© 1996-2022، Amazon.com، Inc. أو الشركات التابعة لها",
+    "taps": {
+      "Conditions of Use": "شروط استخدام",
+      "Privacy Notice": "إشعار الخصوصية",
+      "Help": "مساعدة"
+    }
+  },
+  "aSideNav": {
+    "title": "مرحبا بك",
+    "headings": {
+      "Digital Content & Devices": "المحتوى الرقمي والأجهزة",
+      "Shop By Department": "التسوق حسب القسم",
+      "Programs & Features": "البرامج والميزات"
+    },
+    "titles": {
+      "Amazon Music": "موسيقى أمازون",
+      "Kindle E-readers & Books": "أجهزة القراءة والكتب الإلكترونية من Kindle",
+      "Appstore for Android": "متجر التطبيقات لنظام Android",
+      "Electronics": "إلكترونيات",
+      "Computers": "أجهزة الكمبيوتر",
+      "Arts & Crafts": "الفنون والحرف اليدوية",
+      "Automotive": "السيارات",
+      "Baby": "طفل",
+      "Luggage": "الأمتعة",
+      "Boys' Fashion": "أزياء الأولاد",
+      "Men's Fashion": "أزياء الرجال",
+      "Gift Cards": "بطاقات الهدايا",
+      "Amazon Live": "أمازون لايف",
+      "International Shopping": "التسوق الدولي",
+      "Health and Household": "الصحة والأسرة",
+      "Home and Kitchen": "المنزل والمطبخ",
+      "Industrial and Scientific": "الصناعية والعلمية",
+      "Movies & Television": "الأفلام والتلفزيون",
+      "Pet supplies": "مستلزمات الحيوانات الأليفة",
+      "MAIN MENU": "القائمة الرئيسية"
+    },
+    "items": {
+      "Amazon Music Unlimited": "أمازون ميوزيك غير محدود",
+      "Free Streaming Music": "دفق الموسيقى الحرة",
+      "Podcasts": "المدونة الصوتية",
+      "Play Music": "تشغيل الموسيقى",
+      "Open Web Player": "فتح مشغل الويب",
+      "Kindle Kids": "كيندل كيدز",
+      "Kindle": "أضرم",
+      "Kindle Paperwhite": "كيندل بيبر وايت",
+      "Kindle Oasis": "واحة كيندل",
+      "See all Kindle E-Readers": "شاهد جميع أجهزة Kindle الإلكترونية",
+      "All Apps and Games": "جميع التطبيقات والألعاب",
+      "Games": "ألعاب",
+      "Amazon Coins": "عملات أمازون",
+      "Download Amazon Appstore": "تنزيل Amazon Appstore",
+      "Amazon Apps": "تطبيقات أمازون",
+      "Accessories & Supplies": "الملحقات واللوازم",
+      "Camera & Photo": "الكاميرا والصور",
+      "Car & Vehicle Electronics": "إلكترونيات السيارات والمركبات",
+      "Cell Phones & Accessories": "الهواتف الخلوية والاكسسوارات",
+      "Computer Accessories & Peripherals": "ملحقات الكمبيوتر وملحقاته",
+      "Computer Components": "مكونات الكمبيوتر",
+      "Computers & Tablets": "أجهزة الكمبيوتر والأجهزة اللوحية",
+      "Data Storage": "مخزن البيانات",
+      "External Components": "المكونات الخارجية",
+      "Painting, Drawing & Art Supplies": "أدوات الرسم والرسم والفن",
+      "Beading & Jewelry Making": "الديكور وصناعة المجوهرات",
+      "Crafting": "صياغة",
+      "Fabric": "قماش",
+      "Fabric Decorating": "تزيين النسيج",
+      "Party Decorations & Supplies": "زينة الحفلة ولوازمها",
+      "Car Care": "العناية بالسيارات",
+      "Car Electronics & Accessories": "إلكترونيات السيارات وملحقاتها",
+      "Exterior Accessories": "الملحقات الخارجية",
+      "Interior Accessories": "إكسسوارات داخلية",
+      "Lights & Lighting Accessories": "المصابيح وملحقاتها",
+      "Activity & Entertainment": "النشاط والترفيه",
+      "Apparel & Accessories": "ملابس واكسسوارات",
+      "Baby & Toddler Toys": "ألعاب الأطفال والرضع",
+      "Baby Care": "عناية الطفل",
+      "Baby Stationery": "قرطاسية الأطفال",
+      "Carry-ons": "Carry-ons",
+      "Backpacks": "حقائب ظهر",
+      "Clothing": "ملابس",
+      "Shoes": "أحذية",
+      "Watches": "ساعات",
+      "All gift cards": "جميع بطاقات الهدايا",
+      "eGift cards": "بطاقات الهدايا الإلكترونية",
+      "Gift cards by mail": "بطاقات الهدايا عن طريق البريد",
+      "Specialty gift cards": "بطاقات الهدايا المتخصصة",
+      "Live": "يعيش",
+      "Recently Live": "مباشر مؤخرًا",
+      "Where we ship": "أين نشحن",
+      "Visit Amazon Global": "قم بزيارة Amazon Global",
+      "Baby & Child Care": "رعاية الأطفال والرضع",
+      "Health Care": "رعاية صحية",
+      "Kids' Home Store": "متجر الأطفال المنزلي",
+      "Kitchen & Dining": "المطبخ وتناول الطعام",
+      "Abrasive & Finishing Products": "المنتجات الكاشطة والتشطيب",
+      "Additive Manufacturing Products": "منتجات التصنيع المضافة",
+      "Movies": "أفلام",
+      "TV Shows": "عرض تلفزيوني",
+      "Dogs": "كلاب",
+      "Cats": "القطط",
+      "See All": "اظهار الكل",
+      "See Less": "اظهار أقل"
+    }
+  }
+}

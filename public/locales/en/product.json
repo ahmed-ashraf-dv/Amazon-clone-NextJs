@@ -1,0 +1,9 @@
+{
+  "successAddToCart": "success add to cart",
+  "DeliverTo": "Deliver to",
+  "secureTransaction": "Secure transaction",
+  "btns": {
+    "addToCart": "Add to Cart",
+    "buyNow": "Buy Now"
+  }
+}

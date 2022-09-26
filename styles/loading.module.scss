@@ -1,0 +1,30 @@
+.loadingPage {
+  background: #fff;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 35px;
+  position: fixed;
+  inset: 0;
+  z-index: 998759876989;
+
+  &.hide {
+    animation: hide-loading 1.3s forwards;
+  }
+
+  @keyframes hide-loading {
+    0% {
+      opacity: 1;
+    }
+
+    50% {
+      opacity: 1;
+    }
+
+    100% {
+      opacity: 0;
+    }
+  }
+}

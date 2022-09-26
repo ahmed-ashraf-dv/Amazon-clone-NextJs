@@ -1,0 +1,207 @@
+{
+  "loading": "loading...",
+  "SeeMore": "See more",
+  "Not Found Anything": "Not Found Anything",
+  "From": "From",
+  "RESULTS": "RESULTS",
+  "stars": {
+    "up": "Up"
+  },
+  "header": {
+    "navShop": {
+      "All": "All"
+    },
+    "account": {
+      "title": "Account",
+      "btns": {
+        "signin": "Signin",
+        "newCustomer": {
+          "title": "New customer?",
+          "btn": "Start here."
+        }
+      }
+    },
+    "languages": {
+      "English": "English",
+      "العربية": "Arabic"
+    },
+    "searchbar": {
+      "categories": {
+        "All Departments": "All Departments",
+        "Arts & Crafts": "Arts & Crafts",
+        "Automotive": "Automotive",
+        "Baby": "Baby",
+        "Beauty & Personal Care": "Beauty & Personal Care",
+        "Books": "Books",
+        "Boys' Fashion": "Boys' Fashion",
+        "Computers": "Computers",
+        "Deals": "Deals",
+        "Digital Music": "Digital Music",
+        "Electronics": "Electronics",
+        "Girls' Fashion": "Girls' Fashion",
+        "Health & Household": "Health & Household",
+        "Home & Kitchen": "Home & Kitchen",
+        "Industrial & Scientific": "Industrial & Scientific",
+        "Kindle Store": "Kindle Store",
+        "Luggage": "Luggage",
+        "Men's Fashion": "Men's Fashion",
+        "Movies & TV": "Movies & TV",
+        "Music, CDs & Vinyl": "Music, CDs & Vinyl",
+        "Pet Supplies": "Pet Supplies",
+        "Prime Video": "Prime Video",
+        "Software": "Software",
+        "Sports & Outdoors": "Sports & Outdoors",
+        "Tools & Home Improvement": "Tools & Home Improvement",
+        "Toys & Games": "Toys & Games",
+        "Video Games": "Video Games",
+        "Women's Fashion": "Women's Fashion"
+      }
+    },
+    "countryDeliver": {
+      "DeliverTo": "Deliver to"
+    },
+    "cart": "Cart"
+  },
+  "mainFooter": {
+    "toTopBtn": "Back To Top",
+    "headings": {
+      "Get to Know Us": "Get to Know Us",
+      "Make Money with Us": "Make Money with Us",
+      "Amazon Payment Products": "Amazon Payment Products",
+      "Let Us Help You": "Let Us Help You"
+    },
+    "taps": {
+      "Careers": "Careers",
+      "Blog": "Blog",
+      "About Amazon": "About Amazon",
+      "Investor Relations": "Investor Relations",
+      "Amazon Devices": "Amazon Devices",
+      "Amazon Science": "Amazon Science",
+      "Sell products on Amazon": "Sell products on Amazon",
+      "Sell on Amazon Business": "Sell on Amazon Business",
+      "Sell apps on Amazon": "Sell apps on Amazon",
+      "Become an Affiliate": "Become an Affiliate",
+      "Advertise Your Products": "Advertise Your Products",
+      "Self-Publish with Us": "Self-Publish with Us",
+      "Host an Amazon Hub": "Host an Amazon Hub",
+      "See More Make Money with Us": "See More Make Money with Us",
+      "Amazon Business Card": "Amazon Business Card",
+      "Shop with Points": "Shop with Points",
+      "Reload Your Balance": "Reload Your Balance",
+      "Amazon Currency Converter": "Amazon Currency Converter",
+      "Amazon and COVID-19": "Amazon and COVID-19",
+      "Your Account": "Your Account",
+      "Your Orders": "Your Orders",
+      "Shipping Rates & Policies": "Shipping Rates & Policies",
+      "Returns & Replacements": "Returns & Replacements",
+      "Manage Your Content and Devices": "Manage Your Content and Devices",
+      "Amazon Assistant": "Amazon Assistant",
+      "Help": "Help"
+    }
+  },
+  "guestFooter": {
+    "description": "© 1996-2022, Amazon.com, Inc. or its affiliates",
+    "taps": {
+      "Conditions of Use": "Conditions of Use",
+      "Privacy Notice": "Privacy Notice",
+      "Help": "Help"
+    }
+  },
+  "aSideNav": {
+    "title": "Hello there",
+    "headings": {
+      "Digital Content & Devices": "Digital Content & Devices",
+      "Shop By Department": "Shop By Department",
+      "Programs & Features": "Programs & Features"
+    },
+    "titles": {
+      "Amazon Music": "Amazon Music",
+      "Kindle E-readers & Books": "Kindle E-readers & Books",
+      "Appstore for Android": "Appstore for Android",
+      "Electronics": "Electronics",
+      "Computers": "Computers",
+      "Arts & Crafts": "Arts & Crafts",
+      "Automotive": "Automotive",
+      "Baby": "Baby",
+      "Luggage": "Luggage",
+      "Boys' Fashion": "Boys' Fashion",
+      "Men's Fashion": "Men's Fashion",
+      "Gift Cards": "Gift Cards",
+      "Amazon Live": "Amazon Live",
+      "International Shopping": "International Shopping",
+      "Health and Household": "Health and Household",
+      "Home and Kitchen": "Home and Kitchen",
+      "Industrial and Scientific": "Industrial and Scientific",
+      "Movies & Television": "Movies & Television",
+      "Pet supplies": "Pet supplies",
+      "MAIN MENU": "MAIN MENU"
+    },
+    "items": {
+      "Amazon Music Unlimited": "Amazon Music Unlimited",
+      "Free Streaming Music": "Free Streaming Music",
+      "Podcasts": "Podcasts",
+      "Play Music": "Play Music",
+      "Open Web Player": "Open Web Player",
+      "Kindle Kids": "Kindle Kids",
+      "Kindle": "Kindle",
+      "Kindle Paperwhite": "Kindle Paperwhite",
+      "Kindle Oasis": "Kindle Oasis",
+      "See all Kindle E-Readers": "See all Kindle E-Readers",
+      "All Apps and Games": "All Apps and Games",
+      "Games": "Games",
+      "Amazon Coins": "Amazon Coins",
+      "Download Amazon Appstore": "Download Amazon Appstore",
+      "Amazon Apps": "Amazon Apps",
+      "Accessories & Supplies": "Accessories & Supplies",
+      "Camera & Photo": "Camera & Photo",
+      "Car & Vehicle Electronics": "Car & Vehicle Electronics",
+      "Cell Phones & Accessories": "Cell Phones & Accessories",
+      "Computer Accessories & Peripherals": "Computer Accessories & Peripherals",
+      "Computer Components": "Computer Components",
+      "Computers & Tablets": "Computers & Tablets",
+      "Data Storage": "Data Storage",
+      "External Components": "External Components",
+      "Painting, Drawing & Art Supplies": "Painting, Drawing & Art Supplies",
+      "Beading & Jewelry Making": "Beading & Jewelry Making",
+      "Crafting": "Crafting",
+      "Fabric": "Fabric",
+      "Fabric Decorating": "Fabric Decorating",
+      "Party Decorations & Supplies": "Party Decorations & Supplies",
+      "Car Care": "Car Care",
+      "Car Electronics & Accessories": "Car Electronics & Accessories",
+      "Exterior Accessories": "Exterior Accessories",
+      "Interior Accessories": "Interior Accessories",
+      "Lights & Lighting Accessories": "Lights & Lighting Accessories",
+      "Activity & Entertainment": "Activity & Entertainment",
+      "Apparel & Accessories": "Apparel & Accessories",
+      "Baby & Toddler Toys": "Baby & Toddler Toys",
+      "Baby Care": "Baby Care",
+      "Baby Stationery": "Baby Stationery",
+      "Carry-ons": "Carry-ons",
+      "Backpacks": "Backpacks",
+      "Clothing": "Clothing",
+      "Shoes": "Shoes",
+      "Watches": "Watches",
+      "All gift cards": "All gift cards",
+      "eGift cards": "eGift cards",
+      "Gift cards by mail": "Gift cards by mail",
+      "Specialty gift cards": "Specialty gift cards",
+      "Live": "Live",
+      "Recently Live": "Recently Live",
+      "Where we ship": "Where we ship",
+      "Visit Amazon Global": "Visit Amazon Global",
+      "Baby & Child Care": "Baby & Child Care",
+      "Health Care": "Health Care",
+      "Kids' Home Store": "Kids' Home Store",
+      "Kitchen & Dining": "Kitchen & Dining",
+      "Abrasive & Finishing Products": "Abrasive & Finishing Products",
+      "Additive Manufacturing Products": "Additive Manufacturing Products",
+      "Movies": "Movies",
+      "TV Shows": "TV Shows",
+      "Dogs": "Dogs",
+      "Cats": "Cats",
+      "See All": "See All",
+      "See Less": "See Less"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Amazon.com : {{query}}",
+  "resultCount": "{{num}} من أكثر من {{over}} نتائج لـ:",
+  "sortBy": "فرز حسب",
+  "sortedFil": {
+    "Avg. Customer Review": "مراجعة العملاء",
+    "Price - Low to High": "السعر: منخفض إلى مرتفع",
+    "Price - High to Low": "السعر: مرتفع إلى منخفض"
+  },
+  "filter": {
+    "clear": "حذف",
+    "loading": "جاري التحميل",
+    "heading": {
+      "Customer Reviews": "مراجعة العملاء",
+      "Department": "قسم"
+    }
+  }
+}
